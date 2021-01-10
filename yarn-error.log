@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/kevinlin/.nvm/versions/node/v12.14.0/bin/node /Users/kevinlin/.nvm/versions/node/v12.14.0/bin/yarn init
+
+PATH: 
+  /Users/kevinlin/.pyenv/plugins/pyenv-virtualenv/shims:/Users/kevinlin/.pyenv/shims:/Users/kevinlin/.pyenv/bin:/usr/local/sbin:/usr/local/bin:/Users/kevinlin/.local/bin:/Users/kevinlin/.rbenv/shims:/Users/kevinlin/.nvm/versions/node/v12.14.0/bin:/Users/kevinlin/Dropbox/code/projects/escher/escherv3/lib/bin:/Users/kevinlin/Dropbox/Code/projects/noah/noah-cli/lib/bin:/Users/kevinlin/Dropbox/asgard/bin:/Users/kevinlin/.cargo/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/Library/Apple/usr/bin:/Users/kevinlin/.pyenv/plugins/pyenv-virtualenv/shims:/Users/kevinlin/.pyenv/shims:/Users/kevinlin/.pyenv/bin:/Users/kevinlin/.rbenv/shims:/usr/local/sbin:/Users/kevinlin/.local/bin:/Users/kevinlin/.nvm/versions/node/v12.14.0/bin:/Users/kevinlin/Dropbox/code/projects/escher/escherv3/lib/bin:/Users/kevinlin/Dropbox/Code/projects/noah/noah-cli/lib/bin:/Users/kevinlin/Dropbox/asgard/bin:/Users/kevinlin/.cargo/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/Users/kevinlin/Dropbox/asgard/bin/dev/tasknote:/Users/kevinlin/go/bin:/Users/kevinlin/.fzf/bin:/Library/TeX/texbin:/Users/kevinlin/Dropbox/asgard/bin/dev/tasknote:/Users/kevinlin/go/bin
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  12.14.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/kevinlin/.nvm/versions/node/v12.14.0/lib/node_modules/yarn/lib/cli.js:136925:13)
+      at Interface.emit (events.js:210:5)
+      at Interface._ttyWrite (readline.js:887:16)
+      at ReadStream.onkeypress (readline.js:191:10)
+      at ReadStream.emit (events.js:210:5)
+      at emitKeys (internal/readline/utils.js:433:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1153:36)
+      at ReadStream.emit (events.js:210:5)
+      at addChunk (_stream_readable.js:309:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
