@@ -3,7 +3,6 @@ vaults:
     - fsPath: vault
 useFMTitle: true
 site:
-    assetsPrefix: bond
     copyAssets: true
     siteHierarchies:
         - root

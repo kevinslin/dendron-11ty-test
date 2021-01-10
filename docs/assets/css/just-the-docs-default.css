@@ -564,7 +564,7 @@ hr {
 .site-logo {
   width: 100%;
   height: 100%;
-  background-image: url("https://11ty.dendron.so/bond/logo.png");
+  background-image: url("https://11ty.dendron.so/logo.png");
   background-repeat: no-repeat;
   background-position: left center;
   background-size: contain; }
